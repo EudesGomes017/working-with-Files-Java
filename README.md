@@ -1,2 +1,4 @@
 # working-with-Files-Java
-Desenvolvendo um programa para ler os arquivos Products.txt, com  nome, preço e quantidade.
+Tralhando com Arquivos com a Linguagem Java, criando uma classe com suas responsabiliades, e o Program main principal.
+Utilizando o toString para impressão ser mais  fácil de leitura.
+Lendo o arquivo Products.txt.
