@@ -39,10 +39,6 @@ public class Products implements Serializable {
         this.quantity = quantity;
     }
 
-    //metodo para calcular o preço e a quantidade
-    public double total() {
-        return price * quantity;
-    }
 
     @Override
     public String toString() {
